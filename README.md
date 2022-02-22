@@ -1,4 +1,4 @@
-# Digital Innovation One - Prática .NET
+# Exercício DIO - .NET
 
 ## Primeiro App - APP de cadastro em memória
 
