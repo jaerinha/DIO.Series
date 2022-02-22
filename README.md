@@ -1,5 +1,5 @@
-# Exercício DIO - .NET
+Exercício DIO - .NET
 
-## Primeiro App - APP de cadastro em memória
+Primeiro App - App de cadastro em memória
 
 
